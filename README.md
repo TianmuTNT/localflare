@@ -15,7 +15,7 @@ LocalFlare is a lightweight desktop application development framework that combi
 ## Installation
 
 ```bash
-pip install -r requirements.txt
+pip install localflare
 ```
 
 ## Quick Start

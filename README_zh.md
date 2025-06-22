@@ -15,7 +15,7 @@ LocalFlare 是一个轻量级的桌面应用开发框架，它结合了 Flask �
 ## 安装
 
 ```bash
-pip install -r requirements.txt
+pip install localflare
 ```
 
 ## 快速开始
